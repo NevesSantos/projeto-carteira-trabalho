@@ -83,11 +83,11 @@ section.module.parallax-1{
 }
 
 section.module.parallax-2{
-    background-image: url("https://www.tre-rj.jus.br/imagens/fotos/tre-se-titulo/@@images/84f9c5e3-cebd-437e-a92b-aa3a74520e57.jpeg");
+    background-image: url("https://www.trt13.jus.br/informe-se/noticias/2020/08/jt-da-paraiba-contabiliza-368-processos-nos-primeiros-dias-de-agosto/carteira-de-trabalho.png/@@images/image.png");
     
 }
 section.module.parallax-3{
-    background-image: url("https://www.cut.org.br/images/cache/systemuploadsnews1b5dbffeed6c86bff15-768x460xfit-707c8.jpeg");
+    background-image: url("https://escobaradvogados.com/wp-content/uploads/2020/08/Carteira-de-Trabalho-Digital.jpg");
 }
 
 section.module.parallax h1{
@@ -103,7 +103,7 @@ p{
 }
 
 #Requisitos{
-    color: greenyellow;
+    color: whitesmoke;
 }
 
 #Carteira{
@@ -112,11 +112,20 @@ p{
 }
 
 #Requisitos-1{
-    color: black;
+    color:#fff;
     
 }
 
-#Alistamento{
-    color: greenyellow;
+#tirar-carteira{
+    color: #fff;
+}
+
+
+#Necessarios{
+    color: #fff;
+}
+
+a{
+    color: #fff;
 }
 
