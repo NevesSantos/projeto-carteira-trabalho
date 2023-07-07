@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+
+    .container {
+        max-width: 400px;
+    }
+
+    #Carteira-Trabalho {
+        font-size: 70px;
+
+    }
+
+    #Requisitos {
+        font-size: 70px;
+    }
+
+}
